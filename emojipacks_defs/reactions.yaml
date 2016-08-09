@@ -1,5 +1,7 @@
 title: reactions
-emojis:
+emojis:  
+  - name: based
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/based.gif
   - name: costanza
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/costanza.png
   - name: diversehorseclap
