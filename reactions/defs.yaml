@@ -1,0 +1,54 @@
+title: reactions
+emojis:
+  - name: based
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/based.gif
+  - name: costanza
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/costanza.png
+  - name: diversehorseclap
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/diversehorseclap.gif
+  - name: envyneko
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/envyneko.png
+  - name: feelsbadman
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/feelsbadman.png
+  - name: feelsgoodman
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/feelsgoodman.png
+  - name: gendo
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/gendo.png
+  - name: higasm
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/higasm.png
+  - name: horseclap
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/horseclap.gif
+  - name: hyperdiversehorseclap
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/hyperdiversehorseclap.gif
+  - name: kaminagasm
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/kaminagasm.png
+  - name: kawaiigasm
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/kawaiigasm.png
+  - name: kreygasm
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/kreygasm.png
+  - name: nope
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/nope.png
+  - name: nope2
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/nope2.gif
+  - name: pepsi
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/pepsi.png
+  - name: pepsiroll
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/pepsiroll.gif
+  - name: pepsiroll2
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/pepsiroll2.gif
+  - name: pepsirollin
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/pepsirollin.gif
+  - name: pogchamp
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/pogchamp.png
+  - name: seizure
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/seizure.gif
+  - name: tearsofjoy
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/tearsofjoy.gif
+  - name: what
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/what.png
+  - name: wtf
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/wtf.png
+  - name: wtfr
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/wtfr.png
+  - name: yaranaika
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/yaranaika.png
