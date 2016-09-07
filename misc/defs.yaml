@@ -6,14 +6,20 @@ emojis:
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/misc/img/blank.png
   - name: cabbage
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/misc/img/cabbage.png
+  - name: carlton
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/misc/img/carlton.gif
   - name: chocolate_milk
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/misc/img/chocolate_milk.png
+  - name: dance
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/misc/img/dance.gif
   - name: dougdimmadomeownerofthedimmsdaledimmadomelookingouthisdimmsdaledimmadome
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/misc/img/dougdimmadomeownerofthedimmsdaledimmadomelookingouthisdimmsdaledimmadome.png
   - name: flexleft
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/misc/img/flexleft.gif
   - name: flexright
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/misc/img/flexright.gif
+  - name: gambot
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/misc/img/gambot.png
   - name: gender_f
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/misc/img/gender_f.png
   - name: gender_m
@@ -28,6 +34,10 @@ emojis:
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/misc/img/lhungry.gif
   - name: nsfw
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/misc/img/nsfw.png
+  - name: parrotconga
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/misc/img/parrotconga.gif
+  - name: poly
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/misc/img/poly.png
   - name: picnicpanic
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/misc/img/picnicpanic.png
   - name: rhungry

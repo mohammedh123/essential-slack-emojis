@@ -1,5 +1,5 @@
 title: reactions
-emojis:
+emojis:  
   - name: based
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/based.gif
   - name: bloodytears
@@ -10,12 +10,16 @@ emojis:
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/diversehorseclap.gif
   - name: envyneko
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/envyneko.png
+  - name: facepalm
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/facepalm.png
   - name: feelsbadman
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/feelsbadman.png
   - name: feelsgoodman
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/feelsgoodman.png
   - name: gendo
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/gendo.png
+  - name: hathide
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/hathide.gif
   - name: higasm
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/higasm.png
   - name: horseclap
@@ -34,6 +38,8 @@ emojis:
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/nope.png
   - name: nope2
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/nope2.gif
+  - name: panic
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/panic.gif
   - name: pepsi
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/pepsi.png
   - name: pepsiroll
@@ -42,6 +48,8 @@ emojis:
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/pepsiroll2.gif
   - name: pepsirollin
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/pepsirollin.gif
+  - name: panic
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/panic.gif
   - name: pogchamp
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/pogchamp.png
   - name: residentsleeper
@@ -54,6 +62,8 @@ emojis:
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/tearsofjoy.gif
   - name: what
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/what.png
+  - name: wgas
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/wgas.png
   - name: wtf
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/wtf.png
   - name: wtfr
