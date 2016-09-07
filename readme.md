@@ -3,6 +3,7 @@ A collection of useful Slack custom emoji for use with [emojipacks](https://gith
 
 ## Contributing
 To add emoji to existing packs or to create a new pack:
+
 1. Fork the repository
 2. Clone your Fork
 3. Add your images to the appropriate `img` folder
