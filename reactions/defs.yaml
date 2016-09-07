@@ -2,6 +2,8 @@ title: reactions
 emojis:  
   - name: based
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/based.gif
+  - name: bloodytears
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/bloodytears.png
   - name: costanza
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/costanza.png
   - name: diversehorseclap
@@ -22,6 +24,8 @@ emojis:
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/higasm.png
   - name: horseclap
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/horseclap.gif
+  - name: hr
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/hr.gif
   - name: hyperdiversehorseclap
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/hyperdiversehorseclap.gif
   - name: kaminagasm
@@ -48,6 +52,10 @@ emojis:
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/panic.gif
   - name: pogchamp
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/pogchamp.png
+  - name: residentsleeper
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/residentsleeper.png
+  - name: rip
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/rip.gif
   - name: seizure
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/seizure.gif
   - name: tearsofjoy
