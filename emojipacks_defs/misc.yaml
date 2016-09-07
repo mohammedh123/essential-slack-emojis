@@ -4,18 +4,28 @@ emojis:
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blank.png
   - name: cabbage
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/cabbage.png
+  - name: carlton
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/carlton.gif
   - name: chocolate_milk
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/chocolate_milk.png
+  - name: dance
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/dance.gif
   - name: flexleft
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/flexleft.gif
   - name: flexright
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/flexright.gif
+  - name: gambot
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/gambot.png
   - name: gtr
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/gtr.gif
   - name: gunr
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/gunr.png
   - name: nsfw
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/nsfw.png
+  - name: parrotconga
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/parrotconga.gif
+  - name: poly
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/poly.png
   - name: sanic
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/sanic.gif
   - name: sweat_dropsr

@@ -8,12 +8,16 @@ emojis:
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/diversehorseclap.gif
   - name: envyneko
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/envyneko.png
+  - name: facepalm
+    https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/facepalm.png
   - name: feelsbadman
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/feelsbadman.png
   - name: feelsgoodman
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/feelsgoodman.png
   - name: gendo
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/gendo.png
+  - name: hathide
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/hathide.gif
   - name: higasm
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/higasm.png
   - name: horseclap
@@ -30,6 +34,8 @@ emojis:
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/nope.png
   - name: nope2
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/nope2.gif
+  - name: panic
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/panic.gif
   - name: pepsi
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/pepsi.png
   - name: pepsiroll
@@ -38,6 +44,8 @@ emojis:
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/pepsiroll2.gif
   - name: pepsirollin
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/pepsirollin.gif
+  - name: panic
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/panic.gif
   - name: pogchamp
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/pogchamp.png
   - name: seizure
@@ -46,6 +54,8 @@ emojis:
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/tearsofjoy.gif
   - name: what
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/what.png
+  - name: wgas
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/wgas.png
   - name: wtf
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/wtf.png
   - name: wtfr
