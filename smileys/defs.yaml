@@ -52,6 +52,8 @@ emojis:
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/img/puker.png
   - name: sangry
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/img/sangry.png
+  - name: sans
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/img/sans.png
   - name: senvy
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/img/senvy.png
   - name: sevilgrin
@@ -60,6 +62,8 @@ emojis:
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/img/sevilgrinhi.png
   - name: sfacepalm
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/img/sfacepalm.png
+  - name: sleepyhi
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/img/sleepyhi.png
   - name: smirkhi
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/img/smirkhi.png
   - name: smirkr
@@ -78,6 +82,8 @@ emojis:
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/img/winkr.png
   - name: winky
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/img/winky.gif
+  - name: winkysd
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/img/winkysd.gif
   - name: wonder
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/img/wonder.png
   - name: wonder2
