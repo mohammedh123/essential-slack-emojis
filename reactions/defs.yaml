@@ -2,6 +2,8 @@ title: reactions
 emojis:  
   - name: based
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/based.gif
+  - name: biblethump
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/biblethump.gif
   - name: bloodytears
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/bloodytears.png
   - name: costanza
@@ -34,6 +36,8 @@ emojis:
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/kawaiigasm.png
   - name: kreygasm
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/kreygasm.png
+  - name: monkas
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/monkas.png
   - name: nope
     src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/reactions/img/nope.png
   - name: nope2
