@@ -1,0 +1,96 @@
+title: smileys
+emojis:
+  - name: amused
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/amused.png
+  - name: angryhi
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/angryhi.png
+  - name: angryhipuke
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/angryhipuke.png
+  - name: angrypuke
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/angrypuke.png
+  - name: angryunamused
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/angryunamused.png
+  - name: b1
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/b1.png
+  - name: b3
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/b3.png
+  - name: bloodytears
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/bloodytears.png
+  - name: chen
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/chen.gif
+  - name: chew
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/chew.png
+  - name: dance
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/dance.gif
+  - name: disappointednod
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/disappointednod.gif
+  - name: ehh
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/ehh.png
+  - name: envyhi
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/envyhi.png
+  - name: envyr
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/envyr.png
+  - name: envysmug
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/envysmug.png
+  - name: giggle
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/giggle.gif
+  - name: hi
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/hi.png
+  - name: hungry
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/hungry.gif
+  - name: idk
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/idk.gif
+  - name: idksd
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/idksd.gif
+  - name: platinummad
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/platinummad.png
+  - name: platinummadhi
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/platinummadhi.png
+  - name: platinumsmug
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/platinumsmug.png
+  - name: pukehi
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/pukehi.png
+  - name: puker
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/puker.png
+  - name: sangry
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/sangry.png
+  - name: sans
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/sans.png
+  - name: senvy
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/senvy.png
+  - name: sevilgrin
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/sevilgrin.png
+  - name: sevilgrinhi
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/sevilgrinhi.png
+  - name: sfacepalm
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/sfacepalm.png
+  - name: sleepyhi
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/sleepyhi.png
+  - name: smirkhi
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/smirkhi.png
+  - name: smirkr
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/smirkr.png
+  - name: smug
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/smug.png
+  - name: spuke
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/spuke.png
+  - name: srelieved
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/srelieved.png
+  - name: wag
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/wag.gif
+  - name: wigglyg
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/wigglyg.gif
+  - name: winkr
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/winkr.png
+  - name: winky
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/winky.gif
+  - name: winkysd
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/winkysd.gif
+  - name: wonder
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/wonder.png
+  - name: wonder2
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/wonder2.png
+  - name: wonderhi
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/wonderhi.png
+  - name: wonderr
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/smileys/wonderr.png
