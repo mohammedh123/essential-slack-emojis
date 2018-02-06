@@ -1,0 +1,357 @@
+title: blob
+emojis:
+  - name: b1nzyblob
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/b1nzyblob.png
+  - name: b4nzyblob
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/b4nzyblob.png
+  - name: blob0w0
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blob0w0.png
+  - name: blobamused
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobamused.png
+  - name: blobangel
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobangel.png
+  - name: blobangery
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobangery.png
+  - name: blobangry
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobangry.png
+  - name: blobastonished
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobastonished.png
+  - name: blobawkward
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobawkward.png
+  - name: blobaww
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobaww.png
+  - name: blobbandage
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobbandage.png
+  - name: blobblush
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobblush.png
+  - name: blobbowing
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobbowing.png
+  - name: blobcheeky
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobcheeky.png
+  - name: blobcheer
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobcheer.png
+  - name: blobconfounded
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobconfounded.png
+  - name: blobconfused
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobconfused.png
+  - name: blobcool
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobcool.png
+  - name: blobcouncil
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobcouncil.png
+  - name: blobcouple
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobcouple.png
+  - name: blobcowboy
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobcowboy.png
+  - name: blobcry
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobcry.png
+  - name: blobdancer
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobdancer.png
+  - name: blobdead
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobdead.png
+  - name: blobderpy
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobderpy.png
+  - name: blobdetective
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobdetective.png
+  - name: blobdevil
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobdevil.png
+  - name: blobdizzy
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobdizzy.png
+  - name: blobdrool
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobdrool.png
+  - name: blobexpressionless
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobexpressionless.png
+  - name: blobeyes
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobeyes.png
+  - name: blobfacepalm
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobfacepalm.png
+  - name: blobfearful
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobfearful.png
+  - name: blobfistbumpL
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobfistbumpL.png
+  - name: blobfistbumpR
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobfistbumpR.png
+  - name: blobflushed
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobflushed.png
+  - name: blobfrown
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobfrown.png
+  - name: blobfrowning
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobfrowning.png
+  - name: blobfrowningbig
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobfrowningbig.png
+  - name: blobglare
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobglare.png
+  - name: blobgo
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobgo.png
+  - name: blobgrin
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobgrin.png
+  - name: blobhammer
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobhammer.png
+  - name: blobhearteyes
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobhearteyes.png
+  - name: blobhero
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobhero.png
+  - name: blobhighfive
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobhighfive.png
+  - name: blobhug
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobhug.png
+  - name: blobhyperthink
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobhyperthink.png
+  - name: blobhyperthinkfast
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobhyperthinkfast.png
+  - name: blobhypesquad
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobhypesquad.png
+  - name: blobidea
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobidea.png
+  - name: blobjoy
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobjoy.png
+  - name: blobkiss
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobkiss.png
+  - name: blobkissblush
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobkissblush.png
+  - name: blobkissheart
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobkissheart.png
+  - name: bloblul
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/bloblul.png
+  - name: blobmelt
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobmelt.png
+  - name: blobmoustache
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobmoustache.png
+  - name: blobnauseated
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobnauseated.png
+  - name: blobnervous
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobnervous.png
+  - name: blobneutral
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobneutral.png
+  - name: blobninja
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobninja.png
+  - name: blobnogood
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobnogood.png
+  - name: blobnom
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobnom.png
+  - name: blobnomcookie
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobnomcookie.png
+  - name: blobnomouth
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobnomouth.png
+  - name: blobok
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobok.png
+  - name: blobokhand
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobokhand.png
+  - name: blobonfire
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobonfire.png
+  - name: blobopenmouth
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobopenmouth.png
+  - name: bloboro
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/bloboro.png
+  - name: bloboutage
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/bloboutage.png
+  - name: blobowo
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobowo.png
+  - name: blobowoevil
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobowoevil.png
+  - name: blobparty
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobparty.png
+  - name: blobpatrol
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobpatrol.png
+  - name: blobpats
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobpats.png
+  - name: blobpeek
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobpeek.png
+  - name: blobpensive
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobpensive.png
+  - name: blobpin
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobpin.png
+  - name: blobpolice
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobpolice.png
+  - name: blobpoliceangry
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobpoliceangry.png
+  - name: blobpray
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobpray.png
+  - name: blobrofl
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobrofl.png
+  - name: blobrollingeyes
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobrollingeyes.png
+  - name: blobross
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobross.png
+  - name: blobsad
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsad.png
+  - name: blobsalute
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsalute.png
+  - name: blobscream
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobscream.png
+  - name: blobshrug
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobshrug.png
+  - name: blobsleeping
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsleeping.png
+  - name: blobsleepless
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsleepless.png
+  - name: blobsmile
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsmile.png
+  - name: blobsmilehappy
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsmilehappy.png
+  - name: blobsmilehappyeyes
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsmilehappyeyes.png
+  - name: blobsmileopenmouth
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsmileopenmouth.png
+  - name: blobsmileopenmouth2
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsmileopenmouth2.png
+  - name: blobsmilesweat
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsmilesweat.png
+  - name: blobsmilesweat2
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsmilesweat2.png
+  - name: blobsmiley
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsmiley.png
+  - name: blobsmirk
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsmirk.png
+  - name: blobsneezing
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsneezing.png
+  - name: blobsnuggle
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsnuggle.png
+  - name: blobsob
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsob.png
+  - name: blobsplosion
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsplosion.png
+  - name: blobspy
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobspy.png
+  - name: blobstop
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobstop.png
+  - name: blobsunglasses
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsunglasses.png
+  - name: blobsurprised
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsurprised.png
+  - name: blobsweats
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobsweats.png
+  - name: blobteefs
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobteefs.png
+  - name: blobthinking
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobthinking.png
+  - name: blobthinkingcool
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobthinkingcool.png
+  - name: blobthinkingdown
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobthinkingdown.png
+  - name: blobthinkingeyes
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobthinkingeyes.png
+  - name: blobthinkingfast
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobthinkingfast.png
+  - name: blobthinkingglare
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobthinkingglare.png
+  - name: blobthinkingsmirk
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobthinkingsmirk.png
+  - name: blobthonkang
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobthonkang.png
+  - name: blobthumbsdown
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobthumbsdown.png
+  - name: blobthumbsup
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobthumbsup.png
+  - name: blobtilt
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobtilt.png
+  - name: blobtired
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobtired.png
+  - name: blobtongue
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobtongue.png
+  - name: blobtonguewink
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobtonguewink.png
+  - name: blobtriumph
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobtriumph.png
+  - name: blobugh
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobugh.png
+  - name: blobunamused
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobunamused.png
+  - name: blobunsure
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobunsure.png
+  - name: blobupset
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobupset.png
+  - name: blobupsidedown
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobupsidedown.png
+  - name: blobuwu
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobuwu.png
+  - name: blobwaitwhat
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobwaitwhat.png
+  - name: blobwave
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobwave.png
+  - name: blobwavereverse
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobwavereverse.png
+  - name: blobweary
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobweary.png
+  - name: blobwhistle
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobwhistle.png
+  - name: blobwink
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobwink.png
+  - name: blobwoah
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobwoah.png
+  - name: blobxd
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobxd.png
+  - name: blobyum
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobyum.png
+  - name: blobzippermouth
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/blobzippermouth.png
+  - name: bolb
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/bolb.png
+  - name: doggoblob
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/doggoblob.png
+  - name: FeelsBlobMan
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/FeelsBlobMan.png
+  - name: gentleblob
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/gentleblob.png
+  - name: googlebee
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/googlebee.png
+  - name: googleblueheart
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/googleblueheart.png
+  - name: googlecake
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/googlecake.png
+  - name: googlecat
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/googlecat.png
+  - name: googlecatface
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/googlecatface.png
+  - name: googlecatheart
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/googlecatheart.png
+  - name: googledog
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/googledog.png
+  - name: googlefire
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/googlefire.png
+  - name: googleghost
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/googleghost.png
+  - name: googlegun
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/googlegun.png
+  - name: googlemuscleL
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/googlemuscleL.png
+  - name: googlemuscleR
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/googlemuscleR.png
+  - name: googlepenguin
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/googlepenguin.png
+  - name: googlerabbit
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/googlerabbit.png
+  - name: googleredheart
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/googleredheart.png
+  - name: googlesheep
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/googlesheep.png
+  - name: googlesnake
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/googlesnake.png
+  - name: googleturtle
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/googleturtle.png
+  - name: googlewhale
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/googlewhale.png
+  - name: jakeblob
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/jakeblob.png
+  - name: kirblob
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/kirblob.png
+  - name: nellyblob
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/nellyblob.png
+  - name: nikoblob
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/nikoblob.png
+  - name: photoblob
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/photoblob.png
+  - name: pikablob
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/pikablob.png
+  - name: pusheenblob
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/pusheenblob.png
+  - name: rainblob
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/rainblob.png
+  - name: rickblob
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/rickblob.png
+  - name: thinkingwithblobs
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/thinkingwithblobs.png
+  - name: wolfiriblob
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/wolfiriblob.png
+  - name: wumpusblob
+    src: https://raw.githubusercontent.com/mohammedh123/essential-slack-emojis/master/blob/wumpusblob.png
+	
